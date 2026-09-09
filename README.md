@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Hi%20There!%20I'm%20Jaishree%20Kushwaha&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Jaishree%20Kushwaha&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+Data+Analytics+%26+ML+opportunities+%E2%9C%A8" alt="Typing SVG" />
 
@@ -32,6 +32,8 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ### 🧑‍💻 About Me
 
@@ -114,7 +116,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jai-3430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-3430&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Jai-3430&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
@@ -164,4 +166,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
