@@ -142,7 +142,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-tan-xi-81.vercel.app/api/top-langs/?username=Jai-3430&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-3430&theme=tokyo-night&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
