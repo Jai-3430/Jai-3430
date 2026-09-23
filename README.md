@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Jaishree%20Kushwaha&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&fontAlignY=30&text=Hi%20There!%20I'm%20Jaishree%20Kushwaha&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=44&descSize=16" width="100%"/>
 
-<img src="https://github.com/Jai-3430.png" width="130" style="border-radius:50%; margin-top:-90px; border:4px solid #1F3864;" />
+<img src="https://github.com/Jai-3430.png" width="150" height="150" style="border-radius:50%; margin-top:-135px; border:5px solid #ffffff; box-shadow:0 0 0 5px #1F3864, 0 8px 24px rgba(0,0,0,0.35); object-fit:cover;" />
+
+<br/>
+
+<sub>✦ <b>Lucknow, Uttar Pradesh</b> ✦</sub>
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+Data+Analytics+%26+ML+opportunities+%E2%9C%A8" alt="Typing SVG" />
 
