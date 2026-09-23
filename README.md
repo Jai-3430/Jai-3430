@@ -144,9 +144,6 @@
   <img src="https://github-readme-stats-tan-xi-81.vercel.app/api/top-langs/?username=Jai-3430&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jai-3430&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
