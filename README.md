@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Jaishree%20Kushwaha&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
 
+<img src="https://github.com/Jai-3430.png" width="130" style="border-radius:50%; margin-top:-90px; border:4px solid #1F3864;" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Machine+Learning+%F0%9F%A4%96;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+Data+Analytics+%26+ML+opportunities+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
@@ -115,12 +117,12 @@
 ### 📈 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jai-3430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jai-3430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Jai-3430&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jai-3430&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-3430&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-3430&theme=tokyo-night&hide_border=true" width="48%" />
 </div>
 
