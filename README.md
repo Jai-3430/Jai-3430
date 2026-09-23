@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&fontAlignY=30&text=Hi%20There!%20I'm%20Jaishree%20Kushwaha&fontSize=32&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=44&descSize=16" width="100%"/>
 
-<img src="https://github.com/Jai-3430.png" width="150" height="150" style="border-radius:50%; margin-top:-135px; border:5px solid #ffffff; box-shadow:0 0 0 5px #1F3864, 0 8px 24px rgba(0,0,0,0.35); object-fit:cover;" />
+<img src="https://wsrv.nl/?url=github.com/Jai-3430.png&w=300&h=300&mask=circle&border=6,ffffff" width="150" height="150" style="margin-top:-135px;" />
 
 <br/>
 
