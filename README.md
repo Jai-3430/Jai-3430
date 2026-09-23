@@ -94,6 +94,16 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>📄 Resume Screening & Candidate Ranking</h4>
+      <img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" />
+      <p>A Streamlit app that scores how well a resume matches a job description using TF-IDF & cosine similarity, extracts matched/missing skills and keywords, and generates an improvement report.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <br/>
+      <a href="https://github.com/Jai-3430/Data-analysis-Machine-learning-Project/blob/main/Resume%20Screening%20%26%20Candident%20Ranking.py"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
       <h4>📰 Fake News Detection using ML</h4>
       <img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" />
       <p>Classification model that flags news content as likely fake or genuine — covers text preprocessing, feature extraction, model training & evaluation.</p>
@@ -101,6 +111,8 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>🪔 Diwali Sales Analysis</h4>
       <img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" />
@@ -109,6 +121,7 @@
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -123,7 +136,7 @@
 ### 📈 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats-tan-xi-81.vercel.app/api?username=Jai-3430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-tan-xi-81.vercel.app/api?username=Jai-3430&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=79c0ff&cache_seconds=0" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Jai-3430&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
