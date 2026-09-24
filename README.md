@@ -110,6 +110,8 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <br/>
+      <a href="https://github.com/Jai-3430/Data-analysis-Machine-learning-Project/blob/main/Fake%20News%20Detection.ipynb"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
@@ -120,6 +122,8 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      <br/>
+      <a href="https://github.com/Jai-3430/Data-analysis-Machine-learning-Project/blob/main/Diwali_Sales_Analysis.ipynb"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%"></td>
   </tr>
