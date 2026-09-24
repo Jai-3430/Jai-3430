@@ -125,7 +125,16 @@
       <br/>
       <a href="https://github.com/Jai-3430/Data-analysis-Machine-learning-Project/blob/main/Diwali_Sales_Analysis.ipynb"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <h4>📚 StudyDrop — Document Manager</h4>
+      <img src="https://img.shields.io/badge/status-completed-brightgreen?style=flat-square" />
+      <p>A browser-based student document manager to upload, preview, and organize files (PDFs, DOCX, images, PPTX) into folders like Assignments, Notes, Projects & Media — all saved locally.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/>
+      <a href="https://jai-3430.github.io/StudyDrop_Management_Project/"><img src="https://img.shields.io/badge/Live_Demo-1F3864?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </td>
   </tr>
 </table>
 
